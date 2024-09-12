@@ -36,7 +36,7 @@ require (
 	github.com/go-darwin/apfs v0.0.0-20211011131704-f84b94dbf348
 	github.com/go-git/go-billy/v5 v5.5.0
 	github.com/google/uuid v1.6.0
-	github.com/hanwen/go-fuse/v2 v2.5.1
+	github.com/hanwen/go-fuse/v2 v2.5.2-0.20240815120917-76685c7738e7
 	github.com/henrybear327/Proton-API-Bridge v1.0.0
 	github.com/henrybear327/go-proton-api v1.0.0
 	github.com/jcmturner/gokrb5/v8 v8.4.4
